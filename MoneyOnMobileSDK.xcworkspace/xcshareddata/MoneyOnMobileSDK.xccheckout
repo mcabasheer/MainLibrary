@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2738A16-60D6-4FB0-A282-4B7FCF53D87E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MoneyOnMobileSDK</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>596E3F8DD8AD0BF5DE5D7A49B72785479890A030</key>
+		<string>https://github.com/Fastacash/MoneyOnMobile-iOS-SDK.git</string>
+		<key>B8DE7FEB431574C48E8AC3F81D3277E21D386C07</key>
+		<string>https://github.com/Fastacash/ICICI-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MoneyOnMobileSDK/MoneyOnMobileSDK.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>596E3F8DD8AD0BF5DE5D7A49B72785479890A030</key>
+		<string>../..</string>
+		<key>B8DE7FEB431574C48E8AC3F81D3277E21D386C07</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Fastacash/MoneyOnMobile-iOS-SDK.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>596E3F8DD8AD0BF5DE5D7A49B72785479890A030</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8DE7FEB431574C48E8AC3F81D3277E21D386C07</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>596E3F8DD8AD0BF5DE5D7A49B72785479890A030</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MoneyOnMobileSDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>

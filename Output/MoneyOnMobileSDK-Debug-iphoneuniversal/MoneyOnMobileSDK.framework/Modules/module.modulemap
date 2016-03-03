@@ -1,0 +1,6 @@
+framework module MoneyOnMobileSDK {
+  umbrella header "MoneyOnMobileSDK.h"
+
+  export *
+  module * { export * }
+}
